@@ -51,7 +51,7 @@ def is_number(s):
 
 
 #error page handler
-@app.errorhandler(404):
-def error404(error):
-    pass  #Render an error template and passes the parameter for the template
+#@app.errorhandler(404):
+#def error404(error):
+#    pass  #Render an error template and passes the parameter for the template
 
